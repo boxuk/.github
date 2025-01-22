@@ -13,15 +13,14 @@ Like most we'd be lost without amazing open source tools 🔧 that help support 
 We also have our own home grown 🌱 projects developed from our own experience. You should definitely give them a try on your next project!
 
 - [wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A kickstarter for your next WordPress project with all the best practices baked in from a fully dockerised setup to first class feature flag support. Oh my!
-- [wp-hook-attributes](https://github.com/boxuk/wp-hook-attributes) - An simple method to attach PHP functions to WordPress hooks through annotations making it a piece of cake to add hooks.
-- [wordpress-email-tld-checker](https://github.com/boxuk/wordpress-email-tld-checker) - Check email addresses for valid TLDs, great for helping keeping the spam out of the users database!
-- [postcodes-io-bundle](https://github.com/boxuk/postcodes-io-bundle) - A symfony framework bundle that allows querying the [postcodes.io](https://postcodes.io/) web service, making geo location using postcodes a cinch.
+- [wp-packages](https://github.com/boxuk/wp-packages) - Our mono-repo containing lots of really helpful features for WordPress, such as feature flagging, email TLD verification, developer tooling for working with the block editor, a cookie-consent plugin and _so_ much more. 
+- [postcodes-io-bundle](https://github.com/boxuk/postcodes-io-bundle) - A Symfony framework bundle that allows querying the [postcodes.io](https://postcodes.io/) web service, making geo location using postcodes a cinch.
 
 ### A thousand words ✏️
 
 When we're not writing code we're writing about it. Check out some of our recent highlights on the blog:
 
-- [How we develop WordPress Sites](https://www.boxuk.com/insight/how-we-develop-wordpress-sites/) - a teardown on some lessons and best practices when it comes to building on the WordPress platform to give you the best foot forward
+- [How we develop WordPress sites](https://www.boxuk.com/insight/how-we-develop-wordpress-sites/) - a teardown on some lessons and best practices when it comes to building on the WordPress platform to give you the best foot forward
 - [What is devops and how can it benefit you?](https://www.boxuk.com/insight/what-is-devops-and-how-can-it-benefit-your-business/)  - a common misconception is devops is a role, but it's so much more to it than that. We dig into what devops is and how it can help you build.
 
 #### Like what we're doing? ❤️
